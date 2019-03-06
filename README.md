@@ -32,3 +32,8 @@ To solve the above we would be using data collected in Jan - Mar 2015 to predict
 # Performance metrics
 1. Mean Absolute percentage error.
 2. Mean Squared error.
+
+
+<img src='new_york.gif'>
+
+
