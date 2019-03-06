@@ -34,6 +34,6 @@ To solve the above we would be using data collected in Jan - Mar 2015 to predict
 2. Mean Squared error.
 
 
-<img src='new_york.gif'>
+<img src='https://github.com/sanjayuconn/UBER-Taxi-demand-prediction/blob/master/New_york.gif'>
 
 
